@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" viewBox="0 0 80 80">
-  <path d="M21.7,25.1l26.3,26.1c4.4,4.4,4.4,11.5,0,15.8-4.4,4.4-11.5,4.4-15.9,0L5.8,41c-4.4-4.4-4.4-11.5,0-15.8,4.4-4.4,11.5-4.4,15.9,0Z" fill="#58e3d0" fill-rule="evenodd" stroke-width="0"/>
-  <path d="M48,67.1l26.3-26.1c4.4-4.4,4.4-11.5,0-15.8s-11.5-4.4-15.9,0l-26.3,26.1c-4.4,4.4-4.4,11.5,0,15.8,4.4,4.4,11.5,4.4,15.9,0Z" fill="#70d955" fill-rule="evenodd" stroke-width="0"/>
-  <path d="M40,70.4c2.9,0,5.8-1.1,8-3.3l.2-.2c4.2-4.4,4.1-11.3-.2-15.6l-8-7.9-8,7.9c-4.3,4.3-4.4,11.2-.2,15.6l.2.2c2.2,2.2,5.1,3.3,8,3.3h0Z" fill="#52c41a" fill-rule="evenodd" stroke-width="0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 1400 1400">
+  <title>SIS_BIMI</title>
+  <path d="M432.2,392.6l384.7,382.7c64.4,64.2,64.4,168,0,232.2-64.4,64.2-169,64.2-233.4,0l-384.7-382.7c-64.4-64.2-64.4-168,0-232.2,64.4-64.1,169-64.1,233.4,0Z" fill="#58e3d0" fill-rule="evenodd" stroke-width="0"></path>
+  <path d="M816.5,1007.5l384.7-382.7c64.4-64.2,64.4-168,0-232.2-64.4-64.2-169-64.2-233.4,0l-384.7,382.7c-64.4,64.2-64.4,168,0,232.2,64.4,64.1,169,64.1,233.4,0Z" fill="#70d955" fill-rule="evenodd" stroke-width="0"></path>
+  <path d="M700,1055.6c42.2,0,84.3-16,116.5-48.1l3.5-3.5c61.2-64.3,60.3-165.8-3.1-228.8l-116.9-116.4-117,116.4c-63.4,62.9-64.3,164.4-3.1,228.8l3.5,3.5c32.2,32,74.4,48,116.5,48.1h.2Z" fill="#52c41a" fill-rule="evenodd" stroke-width="0"></path>
 </svg>
